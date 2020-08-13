@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MarahRa-module-ii/static/css/main.aa8f1670.chunk.css",
-    "main.js": "/MarahRa-module-ii/static/js/main.b85bb4ea.chunk.js",
-    "main.js.map": "/MarahRa-module-ii/static/js/main.b85bb4ea.chunk.js.map",
+    "main.js": "/MarahRa-module-ii/static/js/main.a8f37b33.chunk.js",
+    "main.js.map": "/MarahRa-module-ii/static/js/main.a8f37b33.chunk.js.map",
     "runtime-main.js": "/MarahRa-module-ii/static/js/runtime-main.8acde625.js",
     "runtime-main.js.map": "/MarahRa-module-ii/static/js/runtime-main.8acde625.js.map",
     "static/js/2.114d521e.chunk.js": "/MarahRa-module-ii/static/js/2.114d521e.chunk.js",
     "static/js/2.114d521e.chunk.js.map": "/MarahRa-module-ii/static/js/2.114d521e.chunk.js.map",
     "index.html": "/MarahRa-module-ii/index.html",
-    "precache-manifest.7e59c3e8ca0005e0c02093f73980d47a.js": "/MarahRa-module-ii/precache-manifest.7e59c3e8ca0005e0c02093f73980d47a.js",
+    "precache-manifest.35c51f52c1b5ddc860cfdd859f532a4a.js": "/MarahRa-module-ii/precache-manifest.35c51f52c1b5ddc860cfdd859f532a4a.js",
     "service-worker.js": "/MarahRa-module-ii/service-worker.js",
     "static/css/main.aa8f1670.chunk.css.map": "/MarahRa-module-ii/static/css/main.aa8f1670.chunk.css.map",
     "static/js/2.114d521e.chunk.js.LICENSE.txt": "/MarahRa-module-ii/static/js/2.114d521e.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8acde625.js",
     "static/js/2.114d521e.chunk.js",
     "static/css/main.aa8f1670.chunk.css",
-    "static/js/main.b85bb4ea.chunk.js"
+    "static/js/main.a8f37b33.chunk.js"
   ]
 }

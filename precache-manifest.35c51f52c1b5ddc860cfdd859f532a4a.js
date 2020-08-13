@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "239504f834dcd653affcccdbcd453352",
+    "revision": "6f93c6a26f3ba22e52284b83ee99adba",
     "url": "/MarahRa-module-ii/index.html"
   },
   {
-    "revision": "9bdc95c7ae92ff7291d7",
+    "revision": "b8a10923ad4d399395d8",
     "url": "/MarahRa-module-ii/static/css/main.aa8f1670.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MarahRa-module-ii/static/js/2.114d521e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9bdc95c7ae92ff7291d7",
-    "url": "/MarahRa-module-ii/static/js/main.b85bb4ea.chunk.js"
+    "revision": "b8a10923ad4d399395d8",
+    "url": "/MarahRa-module-ii/static/js/main.a8f37b33.chunk.js"
   },
   {
     "revision": "371788a97609108f736c",
