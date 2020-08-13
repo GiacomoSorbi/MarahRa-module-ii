@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "//MarahRa-module-ii/static/css/main.aa8f1670.chunk.css",
-    "main.js": "//MarahRa-module-ii/static/js/main.26471bfd.chunk.js",
-    "main.js.map": "//MarahRa-module-ii/static/js/main.26471bfd.chunk.js.map",
-    "runtime-main.js": "//MarahRa-module-ii/static/js/runtime-main.d1107bc3.js",
-    "runtime-main.js.map": "//MarahRa-module-ii/static/js/runtime-main.d1107bc3.js.map",
-    "static/js/2.114d521e.chunk.js": "//MarahRa-module-ii/static/js/2.114d521e.chunk.js",
-    "static/js/2.114d521e.chunk.js.map": "//MarahRa-module-ii/static/js/2.114d521e.chunk.js.map",
-    "index.html": "//MarahRa-module-ii/index.html",
-    "precache-manifest.d1e5acbe14a30518833ced7b03c1db19.js": "//MarahRa-module-ii/precache-manifest.d1e5acbe14a30518833ced7b03c1db19.js",
-    "service-worker.js": "//MarahRa-module-ii/service-worker.js",
-    "static/css/main.aa8f1670.chunk.css.map": "//MarahRa-module-ii/static/css/main.aa8f1670.chunk.css.map",
-    "static/js/2.114d521e.chunk.js.LICENSE.txt": "//MarahRa-module-ii/static/js/2.114d521e.chunk.js.LICENSE.txt"
+    "main.css": "/MarahRa-module-ii/static/css/main.aa8f1670.chunk.css",
+    "main.js": "/MarahRa-module-ii/static/js/main.b85bb4ea.chunk.js",
+    "main.js.map": "/MarahRa-module-ii/static/js/main.b85bb4ea.chunk.js.map",
+    "runtime-main.js": "/MarahRa-module-ii/static/js/runtime-main.8acde625.js",
+    "runtime-main.js.map": "/MarahRa-module-ii/static/js/runtime-main.8acde625.js.map",
+    "static/js/2.114d521e.chunk.js": "/MarahRa-module-ii/static/js/2.114d521e.chunk.js",
+    "static/js/2.114d521e.chunk.js.map": "/MarahRa-module-ii/static/js/2.114d521e.chunk.js.map",
+    "index.html": "/MarahRa-module-ii/index.html",
+    "precache-manifest.7e59c3e8ca0005e0c02093f73980d47a.js": "/MarahRa-module-ii/precache-manifest.7e59c3e8ca0005e0c02093f73980d47a.js",
+    "service-worker.js": "/MarahRa-module-ii/service-worker.js",
+    "static/css/main.aa8f1670.chunk.css.map": "/MarahRa-module-ii/static/css/main.aa8f1670.chunk.css.map",
+    "static/js/2.114d521e.chunk.js.LICENSE.txt": "/MarahRa-module-ii/static/js/2.114d521e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d1107bc3.js",
+    "static/js/runtime-main.8acde625.js",
     "static/js/2.114d521e.chunk.js",
     "static/css/main.aa8f1670.chunk.css",
-    "static/js/main.26471bfd.chunk.js"
+    "static/js/main.b85bb4ea.chunk.js"
   ]
 }
