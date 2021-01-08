@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f38a988e696589b7108146fb072ab7b",
+    "revision": "65c4cc6cfd61a70538e399763b4d687c",
     "url": "/MarahRa-module-ii/index.html"
   },
   {
-    "revision": "63b13b99371c71de06d6",
-    "url": "/MarahRa-module-ii/static/css/main.d6a5df04.chunk.css"
+    "revision": "7e95bc98e57290b453bd",
+    "url": "/MarahRa-module-ii/static/css/main.b6831c17.chunk.css"
   },
   {
-    "revision": "c1fd8c5679553021e13d",
-    "url": "/MarahRa-module-ii/static/js/2.5db2b2a9.chunk.js"
+    "revision": "31434499fad097f21123",
+    "url": "/MarahRa-module-ii/static/js/2.dc72ee6d.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/MarahRa-module-ii/static/js/2.5db2b2a9.chunk.js.LICENSE.txt"
+    "url": "/MarahRa-module-ii/static/js/2.dc72ee6d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63b13b99371c71de06d6",
-    "url": "/MarahRa-module-ii/static/js/main.f5f2c45e.chunk.js"
+    "revision": "7e95bc98e57290b453bd",
+    "url": "/MarahRa-module-ii/static/js/main.95cf297c.chunk.js"
   },
   {
     "revision": "371788a97609108f736c",
@@ -44,8 +44,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MarahRa-module-ii/static/media/art.bca49285.png"
   },
   {
+    "revision": "4fcf94b8c76cd1f1fdf9f9b30262c3cb",
+    "url": "/MarahRa-module-ii/static/media/asian.4fcf94b8.jpg"
+  },
+  {
+    "revision": "c2146b777a5873988a9b9850703e4239",
+    "url": "/MarahRa-module-ii/static/media/blue.c2146b77.jpg"
+  },
+  {
     "revision": "bb926d9cc3ee7503648740f09a4aab87",
     "url": "/MarahRa-module-ii/static/media/forest.bb926d9c.png"
+  },
+  {
+    "revision": "0e1d1f0e6836a50b03fd642e5cbe1dde",
+    "url": "/MarahRa-module-ii/static/media/hijabi.0e1d1f0e.jpg"
+  },
+  {
+    "revision": "ac6749b0551331e1652a2c9c5e5a1b4f",
+    "url": "/MarahRa-module-ii/static/media/image-2.ac6749b0.jpg"
   },
   {
     "revision": "48f82304823809bba6b35236a38ec28c",
@@ -68,7 +84,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MarahRa-module-ii/static/media/landscape5.48eaa866.jpg"
   },
   {
+    "revision": "f0502f0b2e84a35e5ec5d49a52445be6",
+    "url": "/MarahRa-module-ii/static/media/livingroom.f0502f0b.jpg"
+  },
+  {
+    "revision": "0eb108c7a75e5723884e4959088381aa",
+    "url": "/MarahRa-module-ii/static/media/man2.0eb108c7.jpg"
+  },
+  {
+    "revision": "12e6e680876c623a26327b22057949e6",
+    "url": "/MarahRa-module-ii/static/media/mansion.12e6e680.jpg"
+  },
+  {
     "revision": "5a89f6308254ec6ecd1c41989c6acfc1",
     "url": "/MarahRa-module-ii/static/media/property.5a89f630.png"
+  },
+  {
+    "revision": "f03a1f6897feb096c89b7a5bd44dab44",
+    "url": "/MarahRa-module-ii/static/media/subway.f03a1f68.jpg"
   }
 ]);

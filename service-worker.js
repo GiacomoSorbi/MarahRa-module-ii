@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MarahRa-module-ii/precache-manifest.f68a90b2d8576f8cc332e725a504fcf4.js"
+  "/MarahRa-module-ii/precache-manifest.4e5b5ce7c5a29e5e3dc3810647bef54e.js"
 );
 
 self.addEventListener('message', (event) => {
